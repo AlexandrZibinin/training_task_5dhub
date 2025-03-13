@@ -21,3 +21,5 @@ The method takes the identifier of the shortened URL as a parameter and returns 
 ___________________________________________________
 
 For start: Run file main.py or use command "uvicorn main:app --reload"
+
+Local server: http://127.0.0.1:8000
