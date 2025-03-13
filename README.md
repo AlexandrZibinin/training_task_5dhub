@@ -23,3 +23,8 @@ ___________________________________________________
 For start: Run file main.py or use command "uvicorn main:app --reload"
 
 Local server: http://127.0.0.1:8000
+
+Stack:
+- Python ^3.12.2
+- FastAPI ^0.115.11
+- Uvicorn ^0.34.0
